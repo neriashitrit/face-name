@@ -3,7 +3,7 @@ import React from 'react';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { connect } from 'react-redux'
-import {currentDisplay} from 'C:/Users/user/Documents/נריה/עבודה/ספקטורי/react/face-name/src/action'
+import {currentDisplay} from '../action'
 
 
 library.add(fab,)

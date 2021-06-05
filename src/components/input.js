@@ -1,6 +1,5 @@
 import React from 'react';
-import {changeElement} from 'C:/Users/user/Documents/נריה/עבודה/ספקטורי/react/face-name/src/action'
-import store from 'C:/Users/user/Documents/נריה/עבודה/ספקטורי/react/face-name/src/store'
+import {changeElement} from '../action'
 
 
 const inputBer = (event) => {

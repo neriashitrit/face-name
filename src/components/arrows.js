@@ -3,7 +3,7 @@ import React from 'react';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faArrowAltCircleRight, faArrowAltCircleLeft } from '@fortawesome/free-solid-svg-icons'
 import { connect } from 'react-redux'
-import {moveLeft, moveRight} from 'C:/Users/user/Documents/נריה/עבודה/ספקטורי/react/face-name/src/action'
+import {moveLeft, moveRight} from '../action'
 
 library.add(faArrowAltCircleRight, faArrowAltCircleLeft)
 
